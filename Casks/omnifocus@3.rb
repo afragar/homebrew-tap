@@ -1,4 +1,4 @@
-cask "omnifocus" do
+cask "omnifocus@3" do
   on_ventura :or_older do
     on_el_capitan :or_older do
       version "2.10"
