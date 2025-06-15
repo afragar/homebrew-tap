@@ -57,7 +57,7 @@ cask "omnifocus@3" do
     version "3.15.8"
     sha256 "f0fe7bf0fafc35d50a23fe0d614b9403b58de9439704a2e3d93fbdc602aab661"
 
-    url "https://downloads.omnigroup.com/software/macOS/14/OmniFocus-#{version}.dmg"
+    url "https://downloads.omnigroup.com/software/macOS/11/OmniFocus-#{version}.dmg"
 
     livecheck do
       skip "Legacy version"
